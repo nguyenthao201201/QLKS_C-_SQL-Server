@@ -1,0 +1,8 @@
+MaPhong	String	10	
+MaPhieu	String	20	
+NgayDatPhong	Date		
+LoaiPhong	String	200	
+DonGia	Number		
+NgayO	Number		
+ThanhTien	Number		
+NgayTraPhong	Date		

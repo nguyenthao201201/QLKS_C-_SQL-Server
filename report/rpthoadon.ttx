@@ -1,0 +1,16 @@
+MaHD	String	20	
+TenKH	String	200	
+Cccd	String	20	
+SdtKH	String	20	
+MaPhong	String	10	
+LoaiPhong	String	200	
+NgayDen	Date		
+NgayTt	Date		
+SoNgay	Number		
+TienPhong	Number		
+LoaiDV	String	200	
+GiaDV	Number		
+Dvt	String	10	
+SoLuong	Number		
+TienDV	Number		
+TongTien	Number		

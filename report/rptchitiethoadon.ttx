@@ -1,0 +1,11 @@
+MaPhong	String	10	
+NgayDatPhong	Date		
+LoaiPhong	String	200	
+DonGia	Number		
+NgayO	Number		
+ThanhTien	Number		
+MPDV	String	10	
+NgayGoi	Date		
+ThanhtienDV	Number		
+SoLuong	Number		
+MaDV	String	10	

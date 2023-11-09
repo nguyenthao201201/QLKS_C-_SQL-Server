@@ -1,0 +1,14 @@
+TenKH	String	200	Hoa
+Cccd	Number		
+MaPhong	String	10	
+LoaiPhong	String	100	
+DonGia	Number		
+SdtKH	String	20	
+NgayDen	Date		
+NgayDi	Date		
+SoNgay	Number		
+TienPhong	BLOB		
+LoaiDV	String	200	
+GiaDV	Number		
+Dvt	String	10	
+SoLuong	Number		

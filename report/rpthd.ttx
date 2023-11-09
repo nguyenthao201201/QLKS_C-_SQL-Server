@@ -1,0 +1,5 @@
+LoaiDV	String	200	
+NgayGoi	Date		
+GiaDV	Number		
+SoLuong	Number		
+ThanhTien	Number		
